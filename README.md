@@ -12,10 +12,8 @@ This project focuses on creating a machine learning classifier to determine whet
 - **Accuracy Evaluation:** The model's accuracy is assessed on a test set to measure its effectiveness in spot classification.
 - **Model Persistence:** The trained SVM model is saved using pickle for easy retrieval and integration into other projects.
 
-## Usage
+## Data
 
-To train the classifier or evaluate its performance:
+ download the data [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=drive_link)
 
-```bash
-python parking_spot_classifier.py
 
